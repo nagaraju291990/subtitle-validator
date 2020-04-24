@@ -1,0 +1,22 @@
+1
+00:00:10,150 --> 00:00:16,080
+Hello students.
+
+2
+00:00:16,080 --> 00:00:31,140
+Today we will be doing module 35, indicators
+of food microbial quality and safety.
+
+3
+00:00:31,140 --> 00:00:39,000
+The entire lecture will be divided into introduction,
+the history of indicator organisms, their
+
+4
+00:00:39,000 --> 00:00:46,680
+characteristics, types of indicator organisms,
+the ones which are commonly used for testing
+
+5
+00:00:46,680 --> 00:00:48,909
+in the food industry, their analysis.
